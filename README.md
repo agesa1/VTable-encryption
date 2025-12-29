@@ -96,7 +96,6 @@ decrypted vtable: 0x00007ff7cb534658
 - DRM implementations
 - Code obfuscation
 - Reverse engineering protection
-- Competitive gaming integrity
 
 ## Technical Details
 
